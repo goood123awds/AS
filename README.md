@@ -1,2 +1,1 @@
-# AS
-SD
+# PRO-C118-Project-Boilerplate
